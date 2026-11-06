@@ -4,6 +4,8 @@
 
 > **Status: research prototype at the design stage. Not a medical device. Not clinically validated. Not for use in patient care.** No model in this repository has been evaluated on Kenyan patients. This repository contains no patient data and must never contain any.
 
+> **Why this project exists, in plain language:** read the published essay [The Unfinished Diagnosis](docs/ESSAY_THE_UNFINISHED_DIAGNOSIS.md), also on [Medium](https://medium.com/@mwaivictorbrian68/the-unfinished-diagnosis-2784a7c71fa3) and [LinkedIn](https://www.linkedin.com/pulse/unfinished-diagnosis-scan-mwai-victor-brian-j6o4f/).
+
 ## What this project is
 
 Reaching a facility and having an image taken does not guarantee that a patient gets a timely, reliable interpretation. This project asks whether AI, supervised by authorised clinicians, can improve that step. It treats that as a question to measure, not a result to assume.
@@ -18,7 +20,7 @@ The work is split into three separate efforts:
 
 | If you want to know… | Read |
 |---|---|
-| Why this exists | [Clinical motivation](docs/CLINICAL_MOTIVATION.md), [Problem statement](docs/PROBLEM_STATEMENT.md) |
+| Why this exists | [The Unfinished Diagnosis (essay)](docs/ESSAY_THE_UNFINISHED_DIAGNOSIS.md), [Clinical motivation](docs/CLINICAL_MOTIVATION.md), [Problem statement](docs/PROBLEM_STATEMENT.md) |
 | What is being built and for whom | [Project vision](docs/PROJECT_VISION.md), [Product requirements](docs/PRODUCT_REQUIREMENTS.md) |
 | What is already known | [Literature review](docs/LITERATURE_REVIEW.md), [References](docs/REFERENCES.md) |
 | Which data can be used, and on what terms | [Dataset catalog](docs/DATASET_CATALOG.md), [Data acquisition](docs/DATA_ACQUISITION_GUIDE.md) |
@@ -29,7 +31,7 @@ The work is split into three separate efforts:
 
 ## Documents
 
-**Foundation:** [Vision](docs/PROJECT_VISION.md) · [Problem](docs/PROBLEM_STATEMENT.md) · [Motivation](docs/CLINICAL_MOTIVATION.md) · [Requirements](docs/PRODUCT_REQUIREMENTS.md) · [Literature](docs/LITERATURE_REVIEW.md) · [References](docs/REFERENCES.md)
+**Foundation:** [Vision](docs/PROJECT_VISION.md) · [Problem](docs/PROBLEM_STATEMENT.md) · [Essay](docs/ESSAY_THE_UNFINISHED_DIAGNOSIS.md) · [Motivation](docs/CLINICAL_MOTIVATION.md) · [Requirements](docs/PRODUCT_REQUIREMENTS.md) · [Literature](docs/LITERATURE_REVIEW.md) · [References](docs/REFERENCES.md)
 
 **Data:** [Catalog](docs/DATASET_CATALOG.md) · [Acquisition](docs/DATA_ACQUISITION_GUIDE.md) · [Dictionary](docs/DATA_DICTIONARY.md) · [Preprocessing](docs/DATA_PREPROCESSING.md) · [Storage](docs/STORAGE_STRATEGY.md)
 
